@@ -1,5 +1,7 @@
 # Java Hello World Sample
 
+
+
 This project contains a simple servlet application.
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/java-helloworld)
